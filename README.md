@@ -2,7 +2,27 @@
 
 - 📚 Learning: Phyton, HTML
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">Sou um estudante de Análise e Desenvolvimento de Sistemas. <br>Busco um primeiro estágio.<br>Busco conhecimentos na área e estou disposto aprender muitas coisas novas.</p>
+
+###
+
+<h2 align="left">Linguagens</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
+</div>
+
+###
+
+<h2 align="left">Contato</h2>
 
 ###
 
@@ -14,7 +34,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Status</h2>
 
 ###
 
